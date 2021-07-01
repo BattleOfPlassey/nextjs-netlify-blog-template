@@ -1,19 +1,23 @@
 {
   "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "site_title": "SidToons Blog",
+  "site_description": "blog by a cartoonist",
   "site_keywords": [
     {
-      "keyword": "Next.js"
+      "keyword": "caricature"
     },
     {
-      "keyword": "Netlify"
+      "keyword": "cartoon"
     },
     {
-      "keyword": "React"
+      "keyword": "wedding"
     }
   ],
-  "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "posts_per_page": 10,
+  "twitter_account": "sidtoonsart",
+  "github_account": "",
+  "website_url":"https://www.sidtoons.com",
+  "instagram_account": "sidtoons",
+  "facebook_account": "sidtoons"
+
 }
