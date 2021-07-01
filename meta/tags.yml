@@ -1,25 +1,19 @@
 tags:
-  - slug: document
-    name: document
-  - slug: mock
-    name: mock
-  - slug: style
-    name: style
-  - slug: license
-    name: license
-  - slug: mdx
-    name: mdx
-  - slug: markdown
-    name: markdown
+  - slug: caricature
+    name: caricature
   - slug: animation
     name: animation
   - slug: artworks
     name: artworks
-  - slug: caricature
-    name: caricature
   - slug: music
     name: music
   - slug: moviesAndTVseries
     name: moviesAndTVseries
   - slug: random
     name: random
+  - slug: markdown
+    name: markdown
+  - slug: style
+    name: style
+  - slug: mdx
+    name: mdx
