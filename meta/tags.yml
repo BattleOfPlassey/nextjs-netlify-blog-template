@@ -1,17 +1,13 @@
 tags:
-  - slug: animation
-    name: animation
-  - slug: artworks
-    name: artworks
-  - slug: cartoons
-    name: cartoons
-  - slug: caricature
-    name: caricature
-  - slug: mylife
-    name: mylife
-  - slug: random
-    name: random
-  - slug: music
-    name: music
-  - slug: moviesAndtvseries
-    name: moviesAndtvseries
+  - slug: document
+    name: document
+  - slug: mock
+    name: mock
+  - slug: style
+    name: style
+  - slug: license
+    name: license
+  - slug: mdx
+    name: mdx
+  - slug: markdown
+    name: markdown
