@@ -1,13 +1,6 @@
 authors:
-  - slug: siddhant
-    name: Siddhant Badkul
-    introduction: Sid works as a Freelance Graphic Artist and is owner at SidToons.
-      He expresses his innate emotions and feelings with an eccentric sense of
-      creativity. He has expertise in Adobe Illustrator, Photoshop, After
-      Effects and Premier Pro
-  - slug: palash
-    name: Palash Shrivastava
-    introduction: Palash has expertise in web development, server administration and
-      deployment. He creates seamless web apps with functional and creative
-      designs. He also performs experiments in his leisure time by trying out
-      new technologies.
+  - slug: wutali
+    name: Takahiro Fujiwara
+    introduction:
+      Co-founder and CTO at Fuller, Inc. / Software & Data Engineer /
+      Python / Golang / React
