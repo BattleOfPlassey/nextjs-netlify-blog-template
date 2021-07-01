@@ -11,9 +11,3 @@ tags:
     name: moviesAndTVseries
   - slug: random
     name: random
-  - slug: markdown
-    name: markdown
-  - slug: style
-    name: style
-  - slug: mdx
-    name: mdx
